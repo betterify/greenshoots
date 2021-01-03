@@ -58,7 +58,7 @@ sections:
         content: |-
           ---
 
-          ## $39
+          ### $39
 
           per month, billed yearly
 
