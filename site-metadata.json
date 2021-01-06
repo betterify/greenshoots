@@ -2,12 +2,12 @@
     "description": "A \"do it yourself\" theme for Stackbit",
     "layout": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/Avadhoot.Me Favicon Stackbit (1).png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -57,7 +57,7 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
+        "logo": "images/Avadhoot.Me Favicon Stackbit (1).png",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
@@ -153,7 +153,19 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=diy\" target=\"_blank\" rel=\"noopener\">here</a>."
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=diy\" target=\"_blank\" rel=\"noopener\">here</a>.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "Stackbit DIY Theme"
 }
