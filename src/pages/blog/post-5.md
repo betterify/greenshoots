@@ -28,7 +28,11 @@ Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magn
 
 
 
-``` Code Block ```
+``` if (condition) {
+  code to run if condition is true
+} else {
+  run some other code instead
+} ```
 
 <div class="note">
 	<strong>Note:</strong>
