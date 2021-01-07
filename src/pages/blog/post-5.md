@@ -34,6 +34,7 @@ Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magn
   run some other code instead
 } ```
 
+
 <div class="note">
 	<strong>Note:</strong>
 	This is just a "Note" to inform how to add Code Block to your post.
