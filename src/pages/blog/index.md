@@ -9,6 +9,15 @@ sections:
     padding_bottom: none
     background_color: none
     content: 'You will find all our blog posts here:'
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
