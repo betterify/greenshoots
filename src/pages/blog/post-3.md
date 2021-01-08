@@ -28,3 +28,4 @@ Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficu
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQmrymNWFltfprLl9IX-irRcmvjsL1ahOKAt8YTzuWTdcWyIH2EX6wyUmmJ4ftG3dICaTZ9DCpqXiht/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
+	<style>  html, body {     background-color: white;     color: white; }  /* responsive slidesframe */ .intrinsic-container { position: relative; height: 0; overflow: hidden; }  /* 4x3 Aspect Ratio */ .intrinsic-container-16x9 { padding-bottom: 60.70%; }  .intrinsic-container iframe { position: absolute; top:0; left: 0; width: 100%; height: 100%; }  </style>
