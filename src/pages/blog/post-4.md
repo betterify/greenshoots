@@ -29,3 +29,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem il
 - Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
 
 **Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+
+<iframe allowfullscreen="" frameborder="0" height="400px" marginheight="0px" marginwidth="0px" name="myiFrame" scrolling="yes" src="https://datastudio.google.com/embed/reporting/1httI14Yytc3Eq2aEdgkTvb0gVyqFlfYs/page/4IMq" style="border: 0px #ffffff none;" width="100%"></iframe>
