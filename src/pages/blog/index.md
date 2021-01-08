@@ -18,6 +18,7 @@ sections:
         icon_position: right
         new_window: false
         type: action
+    image: images/about-3.jpg
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
