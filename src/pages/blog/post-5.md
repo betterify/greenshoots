@@ -43,9 +43,8 @@ if (condition) {
 
 `youtube:https://www.youtube.com/embed/o5a41k3ESMo`
 
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
+[[danger]]
+| content
+
+[[info | This is a title!]]
+| content
