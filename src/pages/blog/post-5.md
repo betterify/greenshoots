@@ -41,10 +41,11 @@ if (condition) {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o5a41k3ESMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-`youtube:https://www.youtube.com/embed/o5a41k3ESMo`
+<details class="custom-block danger">
+  <div class="custom-block-body"><p>content</p></div>
+</details>
 
-[[danger]]
-| content
-
-[[info | This is a title!]]
-| content
+<details class="custom-block">
+  <summary class="custom-block-heading">This is a title!</summary>
+  <div class="custom-block-body"><p>content</p></div>
+</details>
