@@ -42,3 +42,10 @@ if (condition) {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o5a41k3ESMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 `youtube:https://www.youtube.com/embed/o5a41k3ESMo`
+
+<div class="important">
+  <strong>Important:</strong> 
+  This is an "Important" callout block of text.
+  This block indicates a warning or caution. 
+  Use it for an important message. 
+</div>
