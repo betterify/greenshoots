@@ -1,22 +1,21 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
-date: '2020-04-16'
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala
+  virtuti magnitudine obruebantur. Duo Reges: constructio interrete."
 author: src/data/team/dianne-ameter.yaml
+thumbnail: /images/uploads/undraw_informed_decision_p2lh.png
+image_position: right
+date: 2020-04-16
+thumb_image: images/classic/post-1.png
+subtitle: Atqui pugnantibus et contrariis studiis consiliisque semper utens
+  nihil quieti videre, nihil tranquilli potest.
+title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+template: post
+image: images/classic/post-1.png
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image: images/classic/post-1.png
-image: images/classic/post-1.png
-image_position: right
-template: post
+rating: 1
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete. An hoc usque quaque, aliter in vita? Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Illud non continuo, ut aeque incontentae. Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest. Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina traduceret.
 
 ## Sed Ille, UT Dixi, Vitiose
@@ -30,3 +29,5 @@ Expressa vero in iis aetatibus, quae iam confirmatae sunt.
 Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid enim de amicitia statueris utilitatis causa expetenda vides. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim possumus hoc agere divinius? Dic in quovis conventu te omnia facere, ne doleas. Omnes enim iucundum motum, quo sensus hilaretur. Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant. Hoc loco tenere se Triarius non potuit. Nunc haec primum fortasse audientis servire debemus. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Isto modo ne improbos quidem, si essent boni viri. Quid censes in Latino fore?
 
 Quae diligentissime contra Aristonem dicuntur a Chryippo. Huius ego nunc auctoritatem sequens idem faciam. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Aliter homines, aliter philosophos loqui putas oportere? Qui autem esse poteris, nisi te amor ipse ceperit? Aliter autem vobis placet. Compensabatur, inquit, cum summis doloribus laetitia.
+
+<iframe allowfullscreen="" frameborder="0" height="400px" marginheight="0px" marginwidth="0px" name="myiFrame" scrolling="yes" src="https://datastudio.google.com/embed/reporting/1httI14Yytc3Eq2aEdgkTvb0gVyqFlfYs/page/4IMq" style="border: 0px #ffffff none;" width="100%"></iframe>
