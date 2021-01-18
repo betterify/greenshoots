@@ -25,13 +25,22 @@ collections:
     label: "Author" # Used in the UI
     folder: "src/pages/blog/author" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection    
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "author"}
+      - {label: "Title", name: "title", widget: "string"}
 
   - name: "category" # Used in routes, e.g., /admin/collections/blog
     label: "Category" # Used in the UI
     folder: "src/pages/blog/category" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "category"}
+      - {label: "Title", name: "title", widget: "string"}
 
   - name: "tag" # Used in routes, e.g., /admin/collections/blog
     label: "Tag" # Used in the UI
     folder: "src/pages/blog/tag" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tag"}
+      - {label: "Title", name: "title", widget: "string"}
