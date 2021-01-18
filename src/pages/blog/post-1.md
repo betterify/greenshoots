@@ -2,7 +2,7 @@
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala
   virtuti magnitudine obruebantur. Duo Reges: constructio interrete."
 author: src/data/team/dianne-ameter.yaml
-thumbnail: /images/uploads/undraw_informed_decision_p2lh.png
+thumbnail: /images/undraw_informed_decision_p2lh.png
 image_position: right
 date: 2020-04-16
 thumb_image: images/classic/post-1.png
