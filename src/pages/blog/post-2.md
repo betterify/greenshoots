@@ -37,6 +37,3 @@ Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **A
 *   Non igitur bene.
 
 Maximas vero virtutes iacere omnis necesse est voluptate dominante.
-
-
-
