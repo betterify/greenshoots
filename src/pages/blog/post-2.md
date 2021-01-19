@@ -19,7 +19,6 @@ image: images/classic/post-2.png
 image_position: left
 template: post
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Negat esse eam, inquit, propter se expetendam. Nam de isto magna dissensio est. Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Idemne potest esse dies saepius, qui semel fuit? Non est ista, inquam, Piso, magna dissensio. Ita multo sanguine profuso in laetitia et in victoria est mortuus. Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Duo Reges: constructio interrete.
 
 Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna fit in iis, qui habent ad virtutem progressionis aliquantum. Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet. Nihil enim hoc differt. Quorum sine causa fieri nihil putandum est.
@@ -34,7 +33,10 @@ Omnes enim iucundum motum, quo sensus hilaretur. Hoc est non dividere, sed frang
 
 Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **Audeo dicere, inquit.** Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis. Nunc haec primum fortasse audientis servire debemus. Nihil ad rem! Ne sit sane; Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio. Quonam, inquit, modo? Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Hoc ille tuus non vult omnibusque ex rebus voluptatem quasi mercedem exigit.
 
-- Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
-- Non igitur bene.
+*   Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
+*   Non igitur bene.
 
 Maximas vero virtutes iacere omnis necesse est voluptate dominante.
+
+
+
