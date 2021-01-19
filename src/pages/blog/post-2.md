@@ -36,4 +36,4 @@ Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **A
 *   Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
 *   Non igitur bene.
 
-Maximas vero virtutes iacere omnis necesse est voluptate dominante.
+Maximas vero virtutes iacere omnis necesse est voluptate dominante. 
