@@ -39,4 +39,4 @@ Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **A
 
 Maximas vero virtutes iacere omnis necesse est voluptate dominante.
 
-<iframe src="https://script.google.com/macros/s/AKfycbxrTUsBHBh4aYyy9jzKQHL9Ke1HDTV1jn1qceo9_FB3yxlFZzjfysWA/exec" style="border: 0px #ffffff none;" hight="800px" width="100%"></iframe>
+\<iframe src="https://script.google.com/macros/s/AKfycbxrTUsBHBh4aYyy9jzKQHL9Ke1HDTV1jn1qceo9\_FB3yxlFZzjfysWA/exec" style="border: 0px #ffffff none;" height="400px" width="100%" allowfullscreen>\</iframe>
