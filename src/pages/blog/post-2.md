@@ -1,14 +1,16 @@
 ---
-excerpt: Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus
-  igitur sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+excerpt: >-
+  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
+  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
 author: src/data/team/hilary-ouse.yaml
 thumbnail: /images/undraw_content_team_3epn.png
 image_position: left
-date: 2020-05-25
+date: '2020-05-25'
 thumb_image: images/classic/post-2.png
-subtitle: Idemque diviserunt naturam hominis in animum et corpus. Si enim ad
-  populum me vocas, eum.
-title: Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis
+subtitle: >-
+  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
+  vocas, eum.
+title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
 tags:
   - src/data/tags/jamstack.yaml
   - src/data/tags/netlify.yaml
@@ -32,11 +34,9 @@ Omnes enim iucundum motum, quo sensus hilaretur. Hoc est non dividere, sed frang
 
 Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. **Audeo dicere, inquit.** Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis. Nunc haec primum fortasse audientis servire debemus. Nihil ad rem! Ne sit sane; Et certamen honestum et disputatio splendida! omnis est enim de virtutis dignitate contentio. Quonam, inquit, modo? Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Hoc ille tuus non vult omnibusque ex rebus voluptatem quasi mercedem exigit.
 
-* Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
-* Non igitur bene.
+*   Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari - virum vetant in dolore.
+*   Non igitur bene.
 
-Maximas vero virtutes iacere omnis necesse est voluptate dominante. 
+Maximas vero virtutes iacere omnis necesse est voluptate dominante.
 
-
-
-<iframe src="https://script.google.com/macros/s/AKfycbxrTUsBHBh4aYyy9jzKQHL9Ke1HDTV1jn1qceo9_FB3yxlFZzjfysWA/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe src="https://script.google.com/macros/s/AKfycbxrTUsBHBh4aYyy9jzKQHL9Ke1HDTV1jn1qceo9_FB3yxlFZzjfysWA/exec" style="border: 0px #ffffff none;" hight="800px" width="100%"></iframe>
