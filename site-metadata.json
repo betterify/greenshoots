@@ -157,7 +157,7 @@
         "links": [
             {
                 "label": "Netlify",
-                "url": "lorem-ipsum",
+                "url": "https://www.netlify.com/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
