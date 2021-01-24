@@ -1,10 +1,10 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: This is just a Demo Post as Markdown in CLI
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
-date: '2020-06-02'
-author: src/data/team/gustav-purpleson.yaml
+date: '2021-01-21'
+author: src/data/team/avadhoot-dandekar.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
@@ -32,7 +32,5 @@ Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magn
     } 
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o5a41k3ESMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
