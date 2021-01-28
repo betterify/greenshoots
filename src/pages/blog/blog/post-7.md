@@ -1,37 +1,36 @@
 ---
-title: This is just a Demo Post from Netlify CMS
+title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
-date: '2021-01-24T17:40:32.701Z'
+  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
+  videre, nihil tranquilli potest.
+date: '2020-04-16'
 categories:
   - src/data/categories/tutorials.yaml
-tags:
-  - src/data/tags/stackbit.yaml
-  - src/data/tags/netlify.yaml
+  - src/data/categories/general.yaml
+tags: []
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
+  magnitudine obruebantur. Duo Reges: constructio interrete.
 image_position: right
 template: post
 author: src/data/team/avadhoot-dandekar.yaml
-thumbnail: /images/about-2.jpg
-thumb_image: images/classic/post-5.png
-image: images/classic/post-5.png
+thumbnail: /images/uploads/undraw_informed_decision_p2lh.png
+thumb_image: images/classic/post-1.png
+image: images/classic/post-1.png
+rating: 1
 ---
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete. An hoc usque quaque, aliter in vita? Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Illud non continuo, ut aeque incontentae. Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest. Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina traduceret.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+## Sed Ille, UT Dixi, Vitiose
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+Utrum igitur tibi litteram videor an totas paginas commovere? Potius inflammat, ut coercendi magis quam dedocendi esse videantur. Ne in odium veniam, si amicum destitero tueri. Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur? Quis istud, quaeso, nesciebat? Primum divisit ineleganter; Hoc unum Aristo tenuit: praeter vitia atque virtutes negavit rem esse ullam aut fugiendam aut expetendam. Et ille ridens: Video, inquit, quid agas; In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
-    if (condition) {
-      code to run if condition is true
-    } else {
-      run some other code instead
-    } 
+Nemo nostrum istius generis asotos iucunde putat vivere.
+Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Atqui, inquam, Cato, si istud optinueris, traducas me ad te totum licebit. Quam ob rem tandem, inquit, non satisfacit? Vestri haec verecundius, illi fortasse constantius. Quorum sine causa fieri nihil putandum est. Non modo carum sibi quemque, verum etiam vehementer carum esse? Nemo nostrum istius generis asotos iucunde putat vivere.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+Expressa vero in iis aetatibus, quae iam confirmatae sunt.
+Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid enim de amicitia statueris utilitatis causa expetenda vides. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim possumus hoc agere divinius? Dic in quovis conventu te omnia facere, ne doleas. Omnes enim iucundum motum, quo sensus hilaretur. Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant. Hoc loco tenere se Triarius non potuit. Nunc haec primum fortasse audientis servire debemus. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Isto modo ne improbos quidem, si essent boni viri. Quid censes in Latino fore?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o5a41k3ESMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Quae diligentissime contra Aristonem dicuntur a Chryippo. Huius ego nunc auctoritatem sequens idem faciam. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Aliter homines, aliter philosophos loqui putas oportere? Qui autem esse poteris, nisi te amor ipse ceperit? Aliter autem vobis placet. Compensabatur, inquit, cum summis doloribus laetitia.
+
+<iframe allowfullscreen="" frameborder="0" height="400px" marginheight="0px" marginwidth="0px" name="myiFrame" scrolling="yes" src="https://datastudio.google.com/embed/reporting/1httI14Yytc3Eq2aEdgkTvb0gVyqFlfYs/page/4IMq" style="border: 0px #ffffff none;" width="100%"></iframe>
