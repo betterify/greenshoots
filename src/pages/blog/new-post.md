@@ -3,7 +3,8 @@ title: New Post
 subtitle: New post from Stackbit Studio
 date: '2021-05-17'
 categories: []
-tags: []
+tags:
+  - src/data/tags/netlify.yaml
 excerpt: lorem-ipsum
 image_position: top
 template: post
