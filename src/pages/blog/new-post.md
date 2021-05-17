@@ -8,6 +8,7 @@ tags:
 excerpt: lorem-ipsum
 image_position: top
 template: post
+author: src/data/team/avadhoot-dandekar.yaml
 ---
 ## Lorem ipsum
 
