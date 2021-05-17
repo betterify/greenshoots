@@ -1,6 +1,6 @@
 ---
 title: New Post
-subtitle: lorem-ipsum
+subtitle: New post from Stackbit Studio
 date: '2021-05-17'
 categories: []
 tags: []
